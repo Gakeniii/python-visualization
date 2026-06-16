@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "title": "Python for idiots",
+        "author": "Ken walibora",
+        "price": 9000.0,
+        "quantity": 90
+    },
+    {
+        "id": 2,
+        "title": "Data",
+        "author": "Mike",
+        "price": 466.0,
+        "quantity": 43
+    }
+]
